@@ -1,0 +1,11 @@
+---
+title: first words
+author: clgp
+date: '2025-11-13'
+categories:
+  - intro 
+tags:
+  - intro
+---
+ẨmthựcViệtNamnổitiếngvớisựcânbằngtinhgiữacácvịngọt,chua,mặn,cay.Phở,mónsúpbúnbiểutượng,baogồmbánhphởnướcldùngthơmngonvàthịtbòhoặcgà.BánhmìlàchiếcbánhsandwichbaguetteảnhhưởngtừPhápgiònrụm,nhồiđầypâtê,thịtnguội,đồchuavàớttươi.Gỏicuốn(nemcuốn)lànhữngcuốntuơimátgồmtôm,thịt,cácloạirauthơm,vàbún,chấmvớinướcsốtđậuphộngbéo.Ngượclại,chảgiò(nemrán)thìgiòntanvớinhânthịtđậuxanhcủakhoaimôn.Búnchả,mộtđặcsảncủaHàNội,làsựkếthợphoànhảogiữathịtnướngtrênthanhoavàbún,ăncùngbátnướcmắmchuangọt.CơmtấmlàmộtmónăndânphổbiếnởmiềnNam,thườngđượcphụcvụvớisườnnướngmậtong,bìheo,vàchảtrứnghấp.Bánhxèo,loạibánhkếpmặn,cóvỏbánhgiònrụmmàuvàngtươicủanghệ,bêntronglàthịt,tôm,vàgiáđỗ.NgoàiracònphảikểđếnBúnbòHuế,mónbúnbòcayđặcbiệtcủaHuế,vàCaolầu,mónmìđộclạochỉcótạiHộiAnvớisợiMìdaiđặctrưng.
+

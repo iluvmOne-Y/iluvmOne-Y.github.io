@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+<h1>{{ .Title }}</h1>
+
+<ul>
+  {{ range (where site.RegularPages "Section" "post").ByDate.Reverse }}
+  <li>
+    <span class="date">{{ .Date.Format "2006-01-02" }}</span>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+
+{{ partial "footer.html" . }}
