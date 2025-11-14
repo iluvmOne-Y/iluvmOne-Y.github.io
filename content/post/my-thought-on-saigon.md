@@ -1,7 +1,7 @@
 ---
 title: '[YAPPING] My Thoughts on Saigon '
 author: clgp
-date: '2025-11-15'
+date: '2025-11-14'
 categories:
   - Life journal
 tags:
