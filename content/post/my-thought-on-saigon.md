@@ -1,5 +1,5 @@
 ---
-title: 'My Thoughts on Saigon and Why i do blog'
+title: '[YAPPING] My Thoughts on Saigon '
 author: clgp
 date: '2025-11-14T20:34:39+07:00'
 categories:
