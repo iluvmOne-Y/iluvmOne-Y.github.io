@@ -5,19 +5,13 @@ description: "helo"
 ## CLGP'S BLOGZ
 <img
   id="a"
-  src="/images/avatar.jpeg"
+  src="/images/avatar.jpg"
   alt="A cutie">
 
 
 
-:tongue: 
-:tongue: 
-:tongue: 
-:tongue: 
-:tongue: 
 
-
-I'm currently interesting in cyber security field 
+I'm currently interested in cyber security field 
 
 on a journey to get a job and make some bread
 
