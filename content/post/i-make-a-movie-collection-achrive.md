@@ -10,7 +10,7 @@ tags:
 
 ## I Made a Movie Site for My Fave Actress (And I Was Lazy AF Doing It)
 
-<img src = "/images/ltm.jpg" >
+<img src = "/images/LTM.jpg" >
 
 First off, why? Because I'm a fan. I love her films, I love her vibe, and I wanted a place to archive it all.
 
