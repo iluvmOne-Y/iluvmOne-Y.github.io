@@ -74,10 +74,10 @@ exactly what value gets written to which address.
 > **Assumptions:**
 > * We are on a little-endian system (most x86/ARM CPUs).
 > * This means `0xDEADBEEF` at `0x12345678` is stored in memory as:
->     * `0xEF` at `0x1234567B`
->     * `0xBE` at `0x1234567A`
->     * `0xAD` at `0x12345679`
->     * `0xDE` at `0x12345678`
+>      `0xEF` at `0x1234567B`
+>      `0xBE` at `0x1234567A`
+>      `0xAD` at `0x12345679`
+>      `0xDE` at `0x12345678`
 > * We will use `%hhn` (which writes 1 byte) for our writes.
 > * The `printf` byte counter (which `%hhn` uses) starts at `0`.
 
