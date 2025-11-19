@@ -8,7 +8,7 @@ tags:
   - Web
 ---
 
-## I Made a Movie Site for My Fave Actress (And I Was Lazy AF Doing It)
+## I Made a Movie Site for My Fave Actress 
 
 <img src = "/images/LTM.jpg" >
 
