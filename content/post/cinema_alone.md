@@ -37,6 +37,6 @@ Surprisingly, I was **more focused** on the film than I usually am when I'm with
 
 If people think I'm weird, fine. I’m weird. But the movie was so good that I didn't mind being alone at all.
 
-<img src = "/images/LDH2.heic" >
+<img src = "/images/LDH2.png" >
 
 **In total:** Try it yourself. If you want to watch a movie, just go! You don't need to call someone or wait for a partner. It’s actually a great experience.
