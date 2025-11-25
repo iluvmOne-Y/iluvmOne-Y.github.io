@@ -5,7 +5,7 @@ date: '2025-11-16T00:50:33+07:00'
 categories:
   - ctf 
 tags:
-  - bwn
+  - pwn
 ---
 
 ## fmtstr_payload() in pwntools
