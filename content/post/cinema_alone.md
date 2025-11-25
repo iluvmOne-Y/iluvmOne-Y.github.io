@@ -15,7 +15,7 @@ So, I went to the cinema to watch a movie all by myself. Weirdo, right?
 
 I really, *really* wanted to watch the new film **"Truy Tìm Long Diên Hương,"** but I couldn't find anyone with spare time to go with me. So, I thought, "Why can't I just go by myself?"
 
-<img src = "/images/LDH1.jpg" >
+<img src = "/images/LDH1.JPG" >
 
 Honestly, it felt really weird at first. I had to tell myself it would be fine—people go places alone all the time, right?
 
