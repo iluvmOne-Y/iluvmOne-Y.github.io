@@ -14,7 +14,7 @@ on a journey to get a job and make some bread
 
 20 - hcmcity/vn 
 
-<img src="/images/goat-licking.gif">
+<img src="/images/anime.gif">
 
 
 
