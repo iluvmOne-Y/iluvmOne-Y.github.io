@@ -51,9 +51,9 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Create Secret Post
+        if: ${{ secrets.SECRET_POST_CONTENT != '' }}
         env:
           SECRET_CONTENT: ${{ secrets.SECRET_POST_CONTENT }}
-        if: ${{ env.SECRET_CONTENT != '' }}
         run: echo "$SECRET_CONTENT" > content/serect.md
       - name: Build with Hugo
         env:
