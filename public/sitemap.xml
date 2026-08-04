@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-08-04T23:38:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/film/</loc>
+    <lastmod>2026-08-04T23:38:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2026/08/04/film-fshare-link/</loc>
+    <lastmod>2026-08-04T23:38:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fshare/</loc>
+    <lastmod>2026-08-04T23:38:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-08-04T23:38:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-08-04T23:38:37+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-08-04T23:38:37+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/books/co-gai-den-tu-hom-qua/</loc>
     <lastmod>2026-08-04T08:36:12+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/books/</loc>
-    <lastmod>2026-08-04T08:36:12+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-08-04T08:36:12+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/company-lunch/com-thit/</loc>
@@ -44,9 +62,6 @@
     <loc>http://localhost:1313/books/nghia-dia-thu-cung/</loc>
     <lastmod>2026-07-18T04:18:24+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2026-07-16T16:46:18+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/2026/07/16/trang-luyen-phong-van-do-thang-vibe-coder-ngu-vai/</loc>
     <lastmod>2026-07-16T16:46:18+07:00</lastmod>
   </url><url>
@@ -56,9 +71,6 @@
     <loc>http://localhost:1313/books/hoa-than/</loc>
     <lastmod>2026-07-08T04:12:20+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-07-03T22:21:09+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/job/</loc>
     <lastmod>2026-07-03T22:21:09+07:00</lastmod>
   </url><url>
@@ -66,9 +78,6 @@
     <lastmod>2026-07-03T22:21:09+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2026/07/03/my-first-tech-job/</loc>
-    <lastmod>2026-07-03T22:21:09+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-07-03T22:21:09+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/grafana/</loc>
